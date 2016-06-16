@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Genesis Dynamik Image Rotator
-Plugin URI: https://github.com/VR51/WordPress-Runscript
+Plugin URI: https://github.com/VR51/Genesis-Dynamik-Image-Rotator
 Description: Select a bunch of background images to use in random rotation within the header of a Genesis Dynamik theme (the bit behind the logo and header widget area). Images to be used need to uploaded with the Dynamik Image Uploader. The next version of this plugin will rotate images in other theme sections too. Image rotation occurs on each page load.
 Author: Lee Hodson
 Author URI: https://vr51.com
